@@ -114,7 +114,7 @@ public class VodConfig extends BaseConfig {
 
         String url = config.getUrl();  if (TextUtils.isEmpty(url)) {      url = new String(("https://win78qw1.github.io/TV/apk/atvp4-2.txt"));
             Config.find(url, 0).name("虎媽成人影視").update();}
-        OkHttp.cancel("vod");
+       // OkHttp.cancel("vod");
         String json = Decoder.getJson(UrlUtil.convert(config.getUrl()), TAG);
         checkJson(config, Json.parse(json).getAsJsonObject());
     }
