@@ -26,7 +26,7 @@ jobs:
     env:
       # Build configuration
       SOURCE_REPO: "win78qw1/TV"
-      SOURCE_BRANCH: "fongmi"
+      SOURCE_BRANCH: "release"
       API_RETRY_COUNT: 3
       API_RETRY_DELAY: 5
 
