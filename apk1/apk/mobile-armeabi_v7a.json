@@ -2,7 +2,7 @@
   "name": "v5.5.2-sdk28-202606212130",
   "desc": "v5.5.2-sdk28-202606212130 - c6faf12",
   "code": 552,
-  "apk": "mobile-armeabi_v7a.apk",
+  "apk": ":http://linewgames.com/apk/mobile-armeabi_v7a.apk",
   "size": 61337601,
   "sha256": "a9c5016d2b7422efc7dbf6307789ec6f1e0caa8c78c843c003d248b6be2b4017"
 }
